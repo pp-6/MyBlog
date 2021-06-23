@@ -1,8 +1,8 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl:
-url: https://pp-6.github.io/MyBlog/
+baseurl: /MyBlog
+url: https://pp-6.github.io/MyBlog
 date_format: "ordinal"
 title: 码志
 subtitle: "公众号：闷骚的程序员"
