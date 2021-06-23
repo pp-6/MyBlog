@@ -6,12 +6,13 @@ url: https://pp-6.github.io/MyBlog
 date_format: "ordinal"
 title: 大世界
 subtitle: "世界这么大，我想去看看"
-description: "广东咩"
+description: "pp-6"
 keywords: 一枚程序员
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
 repository: pp-6/MyBlog
+repository: pp-6/1
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -21,7 +22,7 @@ components:
     # 分享
     # weibo,qq,wechat,douban,qzone,linkedin,facebook,twitter
     share:
-        enabled: true
+        enabled: false
         hide-platforms: qq,weibo,wechat
     # 不蒜子访问统计
     busuanzi:

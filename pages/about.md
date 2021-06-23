@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-description: 世界这么大我想去看看
+description: 世界这么大,我想去看看
 keywords: 广东咩
 comments: false
 menu: 关于
@@ -25,9 +25,8 @@ permalink: /about/
 </ul>
 
 
-## Skill Keywords
 
-{% for skill in site.data.skills %}
+
 ### {{ skill.name }}
 <div class="btn-inline">
 {% for keyword in skill.keywords %}
