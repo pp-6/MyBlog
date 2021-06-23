@@ -6,13 +6,12 @@ url: https://pp-6.github.io/MyBlog
 date_format: "ordinal"
 title: 大世界
 subtitle: "世界这么大，我想去看看"
-description: "pp-6"
+description: "广东咩"
 keywords: 一枚程序员
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
 repository: pp-6/MyBlog
-repository: pp-6/1
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -39,7 +38,7 @@ components:
     # 修改图片请替换 assets/images/qrcode.jpg
     qrcode:
         enabled: true
-        image_alt: 广东咩
+        image_alt: qrcode
 # 压缩页面内容
 compress_html:
   clippings: all
@@ -53,7 +52,7 @@ highlight_theme: github
 author: 广东咩
 organization: 
 organization_url: 
-github_username: 广东咩
+github_username: pp-6
 location: China
 email: none
 
