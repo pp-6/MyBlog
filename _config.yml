@@ -12,7 +12,6 @@ timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
 repository: pp-6/MyBlog
-repository: pp-6/temp
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -69,9 +68,9 @@ navs:
     href: /categories/
     label: 分类
 
-#   -
-#     href: /archives/
-#     label: 归档
+  -
+    href: /archives/
+    label: 归档
 
 #   -
 #     href: /open-source/
