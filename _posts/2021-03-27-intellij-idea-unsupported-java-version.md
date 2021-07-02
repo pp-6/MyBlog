@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 解决 IntelliJ IDEA 启动报 Unsupported Java Version 的问题
-categories: Java IDEA
+categories: IDEA
 description: 解决 IntelliJ IDEA 启动报 Unsupported Java Version 的问题
 keywords: IntelliJ IDEA, Unsupported Java Version
 ---
